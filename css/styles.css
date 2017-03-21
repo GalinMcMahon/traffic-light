@@ -1,0 +1,25 @@
+.green-light {
+  display: none;
+}
+
+.yellow-light {
+  display: none;
+}
+
+.red-light {
+  display: none;
+}
+
+img {
+  height: 200px;
+
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
